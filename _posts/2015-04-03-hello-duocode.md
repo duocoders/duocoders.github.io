@@ -153,8 +153,7 @@ public sealed class Board
 
     public Board() // empty board
     {
-        //Squares = new Player[9];
-        Squares = new Player[] { Player.None, Player.None, Player.None, Player.None, Player.None, Player.None, Player.None, Player.None, Player.None };
+        Squares = new Player[9];
     }
 
     private Board(Board board, Player player, int position) :
