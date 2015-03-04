@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello DuoCode - translating C# to JavaScript!"
-published: false
+published: true
 ---
 
 Once upon a time there was created a wonderful, general purpose programming language called C#. Many developers around the world embraced C#, and began writing all of their applications in C#, which ran on the user's personal computers, and everyone was happy. Over the years, however, the landscape shifted - everything became more mobile, and there came a need to run some of those projects on the web. As it happened, the language of the web is JavaScript, and while it is ideal for writing applications that run in the browser, it's not always possible (or viable) to rewrite significant parts of core business logic in JavaScript. There have been many attempts over the years to create languages that translate to JavaScript ([TypeScript](http://www.typescriptlang.org/), [CoffeeScript](http://coffeescript.org/), to name a few), but none really provide the raw power and tooling, available to C# developers. Until now!
