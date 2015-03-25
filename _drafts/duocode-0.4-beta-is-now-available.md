@@ -2,9 +2,9 @@
 layout: post
 title: "DuoCode 0.4 beta is now available!"
 ---
-We've been working tirelessly to bring you the first public beta of [DuoCode](http://duoco.de) - our Roslyn-powered C# to JavaScript compiler.
+We've been working tirelessly to bring you the first public beta of [DuoCode](http://duoco.de) - our Roslyn-powered C# to JavaScript compiler!
 
-<div class="bg-danger bs-callout bs-callout-warning" id="callout-helper-bg-accessibility">
+<div class="bg-danger bs-callout bs-callout-warning">
 <p>In this release, we've switched from a standalone executable installer to a Visual Studio Extension (VSIX) distribution, which is incompatible with the previous versions of DuoCode. Please remove any previous installation of DuoCode from <strong>Programs and Features</strong> in Control Panel <strong>before</strong> installing the DuoCode 0.4 beta.</p>
 </div>
 
@@ -27,7 +27,11 @@ The result of the compilation is a `scripts` directory, containing the resulting
 
 ## Questions? Issues? Let us know!
 
-Please don't hesitate to contact us about any questions you might have, or issues you may encounter at our [support website](http://support.duoco.de), or by email to [support@duoco.de.](mailto:support@duoco.de)
+This is a beta, and there might be things that don't work correctly. Please let us know about them, so we can fix them!
+
+Don't hesitate to contact us about any questions you might have, or issues you may encounter at our [support website](http://support.duoco.de), or by email to [support@duoco.de.](mailto:support@duoco.de)
+
+Don't forget to [download](http://duoco.de/download) DuoCode 0.4 beta!
 
 Happy coding!  
 &nbsp;-The DuoCode Team
